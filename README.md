@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/TBAx00/TBAx00/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation]
+(https://github.com/TBAx00/TBAx00/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
