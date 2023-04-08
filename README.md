@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tba.tba&left_color=black&right_color=darkmagenta&left_text=Profile views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TBAx00.TBAx00&left_color=black&right_color=darkmagenta&left_text=Profile views"  />
 </div>
 
 ###
