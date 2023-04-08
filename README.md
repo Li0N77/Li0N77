@@ -1,4 +1,6 @@
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/TBAx00/TBAx00/main/icons/snake/github-contribution-grid-snake.svg">
+</p>
 <br/>
 
 ###
@@ -23,7 +25,7 @@
 
 <div align="center">
   <a href="https://twitter.com/TA2Sec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/TBAx00/TBAx00/main/icons/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
