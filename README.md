@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">Social :</p>
+<h3 align="center">Social :</h3>
 
 ###
 
