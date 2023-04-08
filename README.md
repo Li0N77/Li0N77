@@ -1,4 +1,4 @@
-<img align="right" height="330px" width="450px" src="https://raw.githubusercontent.com/TBAx00/TBAx00/main/github-contribution-grid-snake.svg" >
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 <br/>
 
 ###
