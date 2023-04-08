@@ -37,7 +37,7 @@
 
 ###
 
-<h2>Profile Status :</h2><br>
+<h2 align="center">Profile Status :</h2><br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=TBAx00&style=flat-square&color=lightgrey">
 </p>
