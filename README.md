@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Cyber Security Student at MAZ institute</h3>
+<h2 align="center">Cyber Security Student at MAZ institute</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="center">Social :</h3>
+<h2 align="center">Social :</h2>
 
 ###
 
