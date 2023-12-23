@@ -4,7 +4,7 @@
 ###
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/TBAx00/TBAx00/main/icons/snake/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Li0N77/Li0N77/main/icons/snake/github-contribution-grid-snake.svg">
 </p>
 <br/>
 
