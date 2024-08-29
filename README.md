@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/TA2Sec" target="_blank">
+  <a href="https://twitter.com/Li0N77" target="_blank">
     <img src="https://raw.githubusercontent.com/Li0N77/Li0N77/main/icons/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
