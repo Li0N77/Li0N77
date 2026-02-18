@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Cyber Security Student at MAZ institute</h3>
+<h3 align="center">Web Applications Penetration Tester</h3>
 
 ###
 <h2 align="center">Skills :</h2>
